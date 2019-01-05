@@ -1,6 +1,6 @@
-# Hux Blog
+﻿# Joyce Blog
 
-### [View Live Hux Blog &rarr;](https://huangxuan.me)
+### [View Joyce Blog &rarr;](https://jadechen3.github.io/)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
