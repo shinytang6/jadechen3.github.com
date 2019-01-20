@@ -1,17 +1,17 @@
-﻿# Hexo Configuration
+# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Joyce's Site
-subtitle: lifelong learner
-author: Jiahuan Chen
+title: Liang's Blog
+subtitle: sometimes code， sometimes design
+author: Liang Tang
 language: zh
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://jadechen3.github.io
+url: http://shinytang6.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -20,14 +20,16 @@ permalink_defaults:
 
 # Site settings
 # 网站综合内容设置：
-SEOTitle: Joyce的博客 | Joyce's Blog
-email: unique.cjh@outlook.com
-description: "陈嘉欢的博客"
+SEOTitle: Liang的博客 | Liang's Blog
+email: shinytang6@gmail.com
+description: "唐亮的博客"
 keyword: ""
 
 # SNS settings
 # 一些社交平台地址，支持以下几种：
-github_username: jadechen3
+#zhihu_username:     ai-er-lan-xue-da
+github_username:    shinytang6
+#linkedin_username:  小涛-聂-80964aba
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
@@ -38,8 +40,11 @@ sidebar-avatar: img/avatar.jpg      # use absolute URL, seeing it's used in both
 # 友情链接
 friends: [
     {
-        title: "Liang.T",
-        href: "https://shinytang6.github.io"
+        title: "10000H",
+        href: "https://www.10000h.top"
+    },{
+        title: "Xiaotao's Page",
+        href: "https://niexiaotao.com"
     },{
         title: "It helps SEO",
         href: "#"
@@ -122,8 +127,8 @@ theme: aircloud
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: https://github.com/jadechen3/jadechen3.github.com
-  branch: master
+#deploy:
+#  type: git
+#  repo: your repo url
+#  branch: master
 
